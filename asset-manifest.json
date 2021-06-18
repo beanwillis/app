@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vi-personal-web/static/css/main.5deca720.chunk.css",
-    "main.js": "/vi-personal-web/static/js/main.4e62eb31.chunk.js",
-    "main.js.map": "/vi-personal-web/static/js/main.4e62eb31.chunk.js.map",
-    "runtime-main.js": "/vi-personal-web/static/js/runtime-main.1654a243.js",
-    "runtime-main.js.map": "/vi-personal-web/static/js/runtime-main.1654a243.js.map",
-    "static/js/2.7f4e031a.chunk.js": "/vi-personal-web/static/js/2.7f4e031a.chunk.js",
-    "static/js/2.7f4e031a.chunk.js.map": "/vi-personal-web/static/js/2.7f4e031a.chunk.js.map",
-    "index.html": "/vi-personal-web/index.html",
-    "static/css/main.5deca720.chunk.css.map": "/vi-personal-web/static/css/main.5deca720.chunk.css.map",
-    "static/js/2.7f4e031a.chunk.js.LICENSE.txt": "/vi-personal-web/static/js/2.7f4e031a.chunk.js.LICENSE.txt"
+    "main.css": "/react-app/static/css/main.5deca720.chunk.css",
+    "main.js": "/react-app/static/js/main.104eeb90.chunk.js",
+    "main.js.map": "/react-app/static/js/main.104eeb90.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.3831d5c6.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.3831d5c6.js.map",
+    "static/js/2.1e75a210.chunk.js": "/react-app/static/js/2.1e75a210.chunk.js",
+    "static/js/2.1e75a210.chunk.js.map": "/react-app/static/js/2.1e75a210.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "static/css/main.5deca720.chunk.css.map": "/react-app/static/css/main.5deca720.chunk.css.map",
+    "static/js/2.1e75a210.chunk.js.LICENSE.txt": "/react-app/static/js/2.1e75a210.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1654a243.js",
-    "static/js/2.7f4e031a.chunk.js",
+    "static/js/runtime-main.3831d5c6.js",
+    "static/js/2.1e75a210.chunk.js",
     "static/css/main.5deca720.chunk.css",
-    "static/js/main.4e62eb31.chunk.js"
+    "static/js/main.104eeb90.chunk.js"
   ]
 }
