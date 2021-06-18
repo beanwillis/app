@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vi-personal-web/static/css/main.78546c4e.chunk.css",
-    "main.js": "/vi-personal-web/static/js/main.32d08b08.chunk.js",
-    "main.js.map": "/vi-personal-web/static/js/main.32d08b08.chunk.js.map",
+    "main.css": "/vi-personal-web/static/css/main.5deca720.chunk.css",
+    "main.js": "/vi-personal-web/static/js/main.4e62eb31.chunk.js",
+    "main.js.map": "/vi-personal-web/static/js/main.4e62eb31.chunk.js.map",
     "runtime-main.js": "/vi-personal-web/static/js/runtime-main.1654a243.js",
     "runtime-main.js.map": "/vi-personal-web/static/js/runtime-main.1654a243.js.map",
-    "static/js/2.e806d35e.chunk.js": "/vi-personal-web/static/js/2.e806d35e.chunk.js",
-    "static/js/2.e806d35e.chunk.js.map": "/vi-personal-web/static/js/2.e806d35e.chunk.js.map",
+    "static/js/2.7f4e031a.chunk.js": "/vi-personal-web/static/js/2.7f4e031a.chunk.js",
+    "static/js/2.7f4e031a.chunk.js.map": "/vi-personal-web/static/js/2.7f4e031a.chunk.js.map",
     "index.html": "/vi-personal-web/index.html",
-    "static/css/main.78546c4e.chunk.css.map": "/vi-personal-web/static/css/main.78546c4e.chunk.css.map",
-    "static/js/2.e806d35e.chunk.js.LICENSE.txt": "/vi-personal-web/static/js/2.e806d35e.chunk.js.LICENSE.txt"
+    "static/css/main.5deca720.chunk.css.map": "/vi-personal-web/static/css/main.5deca720.chunk.css.map",
+    "static/js/2.7f4e031a.chunk.js.LICENSE.txt": "/vi-personal-web/static/js/2.7f4e031a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1654a243.js",
-    "static/js/2.e806d35e.chunk.js",
-    "static/css/main.78546c4e.chunk.css",
-    "static/js/main.32d08b08.chunk.js"
+    "static/js/2.7f4e031a.chunk.js",
+    "static/css/main.5deca720.chunk.css",
+    "static/js/main.4e62eb31.chunk.js"
   ]
 }

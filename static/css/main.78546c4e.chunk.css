@@ -1,2 +1,0 @@
-.topbar{width:100%;height:70px;background-color:#3978b6;position:fixed;top:0;z-index:2}.intro{background-color:#f0af58}.portfolio{background-color:#e96758}.contact{background-color:#a23b7c}.app{height:100vh}.app .sections{width:100%;height:calc(100vh - 70px);background-color:#c6daee;position:relative;top:70px;-ms-scroll-snap-type:y mandatory;scroll-snap-type:y mandatory;scrollbar-width:none}.app .sections::webkit-scrollbar{display:none}.app .sections>*{width:100vw;height:calc(100vh - 70px);scroll-snap-align:start}
-/*# sourceMappingURL=main.78546c4e.chunk.css.map */
