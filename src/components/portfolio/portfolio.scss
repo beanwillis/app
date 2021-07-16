@@ -1,3 +1,60 @@
 .portfolio {
-    background-color: #e96758
+  background-color: #e96758;
+  position: relative;
+  .canvas {
+    z-index: -1;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .wrapper {
+    // display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    .imgContainer {
+      background-color: #f5f5f5;
+      border-radius: 50%;
+      display: flex;
+      align-items: flex-end;
+      // justify-content: center;
+      // float: left;
+      width: 250px;
+      height: 250px;
+      img {
+        height: 100%;
+      }
+    }
+    .content {
+      color: #f5f5f5;
+      // text-align: center;
+      // margin: 10px;
+      h2 {
+        font-size: 40px;
+      }
+      h3 {
+        font-size: 30px;
+      }
+    }
+  }
+  a {
+    position: absolute;
+    color: #f5f5f5;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    .arrow {
+      font-size: 50px;
+      color: #f5f5f5;
+      animation: arrowBlink 2s infinite;
+    }
+  }
+
+  @keyframes arrowBlink {
+    100% {
+      opacity: 0;
+    }
+  }
 }
