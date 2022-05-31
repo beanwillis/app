@@ -13,11 +13,18 @@
         &::webkit-scrollbar{ //for the rest of browsers
             display: none;
         }
+        @media screen and (max-width: 788px) {
+            height: calc(100vh - 140px);
+            top: 140px;
+        }
 
         > * {
             width: 100vw;
             height: calc(100vh - 70px);
             scroll-snap-align: start
+        }
+        @media screen and (max-width: 788px) {
+            height: calc(100vh - 140px);
         }
     }
     
