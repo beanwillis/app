@@ -5,9 +5,8 @@ My goal is to improve my skill in Front-end development, but in the future, I pl
 
 I'm learning day by day. Let's see my progress overtime!
 
-Tech: *React*, *Sass*
+Tech: *HTML*, *CSS*, *React*, *Sass*
 
-Hosted on: *Github Pages*
+Hosted on: *Github Pages* and *Netlify*
 
-Domain name used: namecheap
 
